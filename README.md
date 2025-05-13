@@ -52,12 +52,12 @@ Process the data to fine-tune the T-LSTM:
 sh run_processing.sh configfiles/ft_clm_generation/A01_clm_ft.ini
 ```
 
-Fine-tune the pretrained CLM:
+Fine-tune the pretrained T-LSTM:
 ```
 sh run_training.sh configfiles/ft_clm_generation/A01_clm_ft.ini
 ```
 
-Generate SMILES strings with the fine-tuned CLM:
+Generate SMILES strings with the fine-tuned T-LSTM:
 ```
 sh run_generation.sh configfiles/ft_clm_generation/A01_clm_ft.ini
 ```
