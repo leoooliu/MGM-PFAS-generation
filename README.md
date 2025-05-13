@@ -75,9 +75,9 @@ These scripts were used for analyzing the generated structures, including evalua
 - `CF2_removed.py` :  remove strcutures with CF2 groups from valid strcutures.
 - `CF3_extract.py` :  extract strcutures with CF3 groups from remained valid strcutures.
 - `merge_PFAS.py` : integrate structures containing CF2 or CF3 groups.
--`frequency_count.py` : count the number of times an unique molecule is repeated.
--`novel_structure.py` : remove structures that present in training set.
--`generate_suspect_list.py`:  calculate exact mass and formula for unique and novel PFAS structures and construct a list for suspect screening.
+- `frequency_count.py` : count the number of times an unique molecule is repeated.
+- `novel_structure.py` : remove structures that present in training set.
+- `generate_suspect_list.py`:  calculate exact mass and formula for unique and novel PFAS structures and construct a list for suspect screening.
 - `calculate_properties.py`: calculate a suite of chemical properties for generated strcutures.
 
 Note
