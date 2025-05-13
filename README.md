@@ -82,7 +82,7 @@ These scripts were used for analyzing the generated structures, including evalua
 
 Note
 ---
-The original codes for A-LSTM and T-LSTM were derived from projects [https://doi.org/10.1038/s42256-021-00407-x] and [
+The original codes for A-LSTM and T-LSTM were derived from projects DOI:https://doi.org/10.1038/s42256-021-00407-x and DOI:
 https://doi.org/10.1038/s41467-022-35692-6], respectively.
 
 
