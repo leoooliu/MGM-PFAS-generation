@@ -80,9 +80,10 @@ These scripts were used for analyzing the generated structures, including evalua
 -`generate_suspect_list.py`:  calculate exact mass and formula for unique and novel PFAS structures and construct a list for suspect screening.
 - `calculate_properties.py`: calculate a suite of chemical properties for generated strcutures.
 
-Citation
+Note
 ---
-
+The original codes for A-LSTM and T-LSTM were derived from projects [https://doi.org/10.1038/s42256-021-00407-x] and [
+https://doi.org/10.1038/s41467-022-35692-6], respectively.
 
 
 
