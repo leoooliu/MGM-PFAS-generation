@@ -3,6 +3,10 @@ MGM-PFAS-generation
 
 Two strategies were employed for PFAS structure generation. The PFAS generation model based on data augmentation is referred to as A-LSTM, while the model based on transfer learning is referred to as T-LSTM. Since the two algorithms rely on different modeling environments, it is recommended to create separate virtual environments for each.
 
+Note
+---
+The original codes for A-LSTM and T-LSTM were derived from projects DOI:https://doi.org/10.1038/s42256-021-00407-x and DOI:
+https://doi.org/10.1038/s41467-022-35692-6], respectively.
 
 A-LSTM
 ---
@@ -80,10 +84,6 @@ These scripts were used for analyzing the generated structures, including evalua
 - `generate_suspect_list.py`:  calculate exact mass and formula for unique and novel PFAS structures and construct a list for suspect screening.
 - `calculate_properties.py`: calculate a suite of chemical properties for generated strcutures.
 
-Note
----
-The original codes for A-LSTM and T-LSTM were derived from projects DOI:https://doi.org/10.1038/s42256-021-00407-x and DOI:
-https://doi.org/10.1038/s41467-022-35692-6], respectively.
 
 
 
