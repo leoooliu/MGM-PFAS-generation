@@ -6,7 +6,7 @@ Two strategies were employed for PFAS structure generation. The PFAS generation 
 Note
 ---
 The original codes for A-LSTM and T-LSTM were derived from projects DOI:https://doi.org/10.1038/s42256-021-00407-x and DOI:
-https://doi.org/10.1038/s41467-022-35692-6], respectively.
+https://doi.org/10.1038/s41467-022-35692-6, respectively.
 
 A-LSTM
 ---
