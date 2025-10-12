@@ -1,4 +1,7 @@
 """
+Source: https://doi.org/10.1038/s42256-021-00407-x 
+"""
+"""
 Train a language model to generate SMILES.
 """
 
