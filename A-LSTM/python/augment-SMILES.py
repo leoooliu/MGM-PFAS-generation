@@ -1,4 +1,7 @@
 """
+A-LSTM was derived from projects DOI:https://doi.org/10.1038/s42256-021-00407-x 
+"""
+"""
 Take an input SMILES file, and augment it by some fixed factor via SMILES
 enumeration.
 """
