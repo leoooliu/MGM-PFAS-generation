@@ -1,3 +1,7 @@
+"""
+Source: https://doi.org/10.1038/s42256-021-00407-x 
+"""
+
 import deepsmiles
 import numpy as np
 import os
