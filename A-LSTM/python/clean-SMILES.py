@@ -1,4 +1,7 @@
 """
+Source: https://doi.org/10.1038/s42256-021-00407-x 
+"""
+"""
 Clean and canonicalize SMILES from the combined plant database and write them
 to a line-delimited file.
 """
